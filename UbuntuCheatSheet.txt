@@ -1,1 +1,33 @@
 
+#Bash Commands
+
+
+ls -la : Long listing including dot files 
+ls -a : only includes file names 
+ls -La : same as above command
+chmod : change file mode or access control lines 
+chown: change owner
+history : command history
+grep : looks for anything in a stream of data and pulls it out for you 
+| (pipe) : feeds results of one thing into another 
+find : find a specific thing or group of things 
+clear : clears the screen 
+man : brings up manual pages
+more : allows you to look at the contents of a file 
+env : tells you all of you environment variables 
+cat : streams all of the contents of a file 
+sudo : sudo <command> runs the command as super user 
+su : switch user 
+su <username> : switch to username account 
+sudo su -root : will switch to root account 
+vi : lets you edit the file 
+pwd : tells you what directory you are in
+cd : brings you to home directory 
+which : tells you where an executable is 
+bash : opens a new shell inside of the shell 
+less : LOOK THIS UP
+tail : LOOK THIS UP
+alias : tells you what aliases you have
+ps : gives process status 
+top : task manager
+uniq : 
